@@ -74,13 +74,14 @@ header {
   height: 50px; /* Adjust size */
 }
 img.ban_txt {
-  width: 90%;
+  width: 30%;
 }
 .ban_wrap {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 80px 0 70px;
+  position: relative;
 }
 
 /* scroll to down */
@@ -214,6 +215,20 @@ img.ban_txt {
   font-family: "Karantina", cursive;
 }
 
+.main-title {
+  font-size: 22rem;
+  letter-spacing: 45px;
+  color: #f2b92b;
+  text-align: center;
+  font-family: "Karantina", cursive;
+  text-transform: uppercase;
+  font-weight: 600;
+  /* padding: 0px 0 70px; */
+  position: absolute;
+  top: 22%;
+  left: 5%;
+
+}
 .title {
   font-size: 227px;
   letter-spacing: 45px;
@@ -387,6 +402,9 @@ img {
   font-weight: 500;
 }
 @media (max-width: 768px) {
+  img.ban_txt{
+    width: 100%;
+  }
   .right_cnt {
     border-left: 0;
     padding-left: 8px;
@@ -398,6 +416,18 @@ img {
     background-size: cover;
     background-position: 50% 63%;
   }
+  .main-title {
+    font-size: 4rem;
+    letter-spacing: 5px;
+    color: #f2b92b;
+    text-align: center;
+    font-family: "Karantina", cursive;
+    text-transform: uppercase;
+    font-weight: 600;
+    /* padding: 0px 0 70px; */
+    top: 45%;
+  }
+
   .title {
     font-size: 68px;
     letter-spacing: 10px;
