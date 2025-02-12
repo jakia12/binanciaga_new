@@ -38,7 +38,7 @@ header {
 }
 .nav_bar a {
   text-decoration: none;
-  color: #fff !important;
+  color: #f2b92b !important;
   font-family: "Josefin Sans", serif !important;
 }
 /* Left & Right Navigation */
@@ -52,7 +52,7 @@ header {
 .nav-left a,
 .nav-right a {
   text-decoration: none;
-  color: #fff;
+  color: #f2b92b;
   font-size: 16px;
   font-weight: 500;
   transition: color 0.3s ease;
@@ -140,27 +140,27 @@ img.ban_txt {
 .ttl {
   font-size: 62px;
   font-family: "jost";
-  color: #fff;
+  color: #f2b92b;
   padding-bottom: 10px;
 }
 .subttl {
   font-size: 35px;
   font-family: "jost";
-  color: #fff;
+  color: #f2b92b;
   padding-bottom: 10px;
   font-weight: 400;
 }
 .left_cnt h6 {
   font-size: 20px;
   font-family: "jost";
-  color: #fff;
+  color: #f2b92b;
   font-weight: 200;
   margin-bottom: 30px;
 }
 .btn_psudo {
   position: relative;
   padding: 9px 38px;
-  background: #fff;
+  background: #f2b92b;
   border-radius: 2px;
   margin-top: 27px;
 }
@@ -171,11 +171,11 @@ img.ban_txt {
   height: 100%;
   left: -9px;
   top: -9px;
-  border: 2px solid #fff;
+  border: 2px solid #f2b92b;
   border-radius: 2px;
 }
 .btn_psudo a {
-  background: #fff;
+  background: #f2b92b;
   border-radius: 3px;
   font-size: 14px;
   color: #000;
@@ -192,16 +192,16 @@ img.ban_txt {
 .line {
   width: 2px;
   height: 300px;
-  background: #fff;
+  background: #f2b92b;
 }
 .right_cnt p {
-  color: #ffffffd1;
+  color: #fff;
   font-size: 17px;
   font-family: "Josefin sans";
   line-height: 32px;
 }
 .right_cnt {
-  border-left: 1px solid #ffffffd1;
+  border-left: 1px solid #f2b92b;
   padding-left: 44px;
 }
 
@@ -209,7 +209,7 @@ img.ban_txt {
 .title {
   font-size: 120px;
   letter-spacing: 3px;
-  color: #fff;
+  color: #f2b92b;
   text-align: center;
   font-family: "Karantina", cursive;
 }
@@ -217,7 +217,7 @@ img.ban_txt {
 .title {
   font-size: 227px;
   letter-spacing: 45px;
-  color: #fff;
+  color: #f2b92b;
   text-align: center;
   font-family: "Karantina", cursive;
   text-transform: uppercase;
@@ -249,13 +249,13 @@ img.ban_txt {
 .crd h2 {
   font-size: 38px;
   letter-spacing: 1px;
-  color: #fff;
+  color: #f2b92b;
   font-family: "Karantina", cursive;
 }
 .crd h2 {
   font-size: 38px;
   letter-spacing: 1px;
-  color: #fff;
+  color: #f2b92b;
   font-family: "Karantina", cursive;
   margin-top: 17px;
 }
@@ -278,7 +278,7 @@ img.ban_txt {
 
 .gal_txt {
   font-size: 181px;
-  color: #fff;
+  color: #f2b92b;
   text-transform: uppercase;
   font-family: "Karantina", cursive;
   letter-spacing: 37px;
@@ -292,7 +292,7 @@ button.exp_btn {
   position: relative;
   background-color: #fff;
   outline: none;
-  border: navajowhite;
+  border: navajo#f2b92b;
 }
 button.exp_btn::before {
   content: "";
@@ -301,7 +301,7 @@ button.exp_btn::before {
   height: 100%;
   left: -9px;
   top: -9px;
-  border: 2px solid #fff;
+  border: 2px solid #f2b92b;
   right: 0;
 }
 img.arr2 {
@@ -401,7 +401,7 @@ img {
   .title {
     font-size: 68px;
     letter-spacing: 10px;
-    color: #fff;
+    color: #f2b92b;
     text-align: center;
     font-family: "Karantina", cursive;
     text-transform: uppercase;
@@ -410,7 +410,7 @@ img {
   }
   .gal_txt {
     font-size: 75px;
-    color: #fff;
+    color: #f2b92b;
     text-transform: uppercase;
     font-family: "Karantina", cursive;
     letter-spacing: 19px;
@@ -447,14 +447,14 @@ img {
     align-items: center;
     background: #333;
     padding: 10px 20px;
-    color: white;
+    color: #f2b92b;
   }
 
   .menu-toggle {
     display: block;
     font-size: 24px;
     cursor: pointer;
-    color: white;
+    color: #f2b92b;
   }
 
   .nav_links {
@@ -473,7 +473,7 @@ img {
     display: block;
     padding: 10px;
     text-decoration: none;
-    color: #fff;
+    color: #f2b92b;
   }
 
   /* Show menu when toggled */
@@ -489,7 +489,7 @@ img {
     right: 20px;
     font-size: 30px;
     cursor: pointer;
-    color: white;
+    color: #f2b92b;
   }
 
   .nav_bar {
