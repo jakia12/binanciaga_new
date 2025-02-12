@@ -401,7 +401,7 @@ img {
   text-transform: uppercase;
   font-weight: 500;
 }
-@media (max-width: 1440px) {
+@media (max-width: 1920px) {
   .main-title{
     font-size: 17rem;
     letter-spacing: 40px;
