@@ -403,8 +403,8 @@ img {
 }
 @media (max-width: 1920px) {
   .main-title{
-    font-size: 17rem;
-    letter-spacing: 40px;
+    font-size: 19rem;
+    letter-spacing: 45px;
     top: 30%;
   }
   .ban_txt{
@@ -428,7 +428,7 @@ img {
     background-position: 50% 63%;
   }
   .main-title {
-    font-size: 5rem;
+    font-size: 4rem;
     letter-spacing: 5px;
     color: #f2b92b;
     text-align: center;
