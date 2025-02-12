@@ -406,6 +406,7 @@ img {
     font-size: 19rem;
     letter-spacing: 45px;
     top: 30%;
+    left: auto;
   }
   .ban_txt{
     width: 45%;
