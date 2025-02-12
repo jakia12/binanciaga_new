@@ -74,7 +74,7 @@ header {
   height: 50px; /* Adjust size */
 }
 img.ban_txt {
-  width: 30%;
+  width: 45%;
 }
 .ban_wrap {
   display: flex;
@@ -225,7 +225,7 @@ img.ban_txt {
   font-weight: 600;
   /* padding: 0px 0 70px; */
   position: absolute;
-  top: 22%;
+  top: 28%;
   left: 5%;
 
 }
@@ -401,6 +401,17 @@ img {
   text-transform: uppercase;
   font-weight: 500;
 }
+@media screen and (max-width: 1440px) {
+  .main-title{
+    font-size: 17rem;
+    letter-spacing: 40px;
+    top: 30%;
+  }
+  .ban_txt{
+    width: 45%;
+  }
+  .
+}
 @media (max-width: 768px) {
   img.ban_txt{
     width: 100%;
@@ -417,7 +428,7 @@ img {
     background-position: 50% 63%;
   }
   .main-title {
-    font-size: 4rem;
+    font-size: 5rem;
     letter-spacing: 5px;
     color: #f2b92b;
     text-align: center;
@@ -426,6 +437,7 @@ img {
     font-weight: 600;
     /* padding: 0px 0 70px; */
     top: 45%;
+    left: 8%;
   }
 
   .title {
